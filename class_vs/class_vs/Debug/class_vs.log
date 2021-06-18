@@ -1,0 +1,7 @@
+﻿  main.c
+F:\StudySpace\workspace\class_vs\class_vs\src\main.c(119,12): warning C4133: “函数”: 从“FILE **”到“FILE **”的类型不兼容
+F:\StudySpace\workspace\class_vs\class_vs\src\main.c(137,11): warning C4133: “函数”: 从“FILE *”到“FILE *”的类型不兼容
+F:\StudySpace\workspace\class_vs\class_vs\src\main.c(140,29): warning C4133: “=”: 从“FILE *”到“FILE *”的类型不兼容
+F:\StudySpace\workspace\class_vs\class_vs\src\main.c(142,45): warning C4133: “函数”: 从“FILE *”到“FILE *”的类型不兼容
+F:\StudySpace\workspace\class_vs\class_vs\src\main.c(143,10): warning C4133: “函数”: 从“FILE *”到“FILE *”的类型不兼容
+  class_vs.vcxproj -> F:\StudySpace\workspace\class_vs\class_vs\bin\class_vs.exe

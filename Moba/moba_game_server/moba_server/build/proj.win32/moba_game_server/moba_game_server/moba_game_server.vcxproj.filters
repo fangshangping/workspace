@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="netbus">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="apps">
+      <UniqueIdentifier>{4564b787-fd64-46d7-86d2-974132ad5bb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="utils">
+      <UniqueIdentifier>{bc09070f-633a-4384-b0a8-38b016d1fc0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="apps\test">
+      <UniqueIdentifier>{212ec4ae-5049-4719-bc75-31d8cc685f1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3rd">
+      <UniqueIdentifier>{1118fc6f-6bda-44ee-bec9-6e86dccac56c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\apps\test\main.c">
+      <Filter>apps\test</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
