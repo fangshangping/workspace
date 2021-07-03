@@ -1,0 +1,7 @@
+﻿  json.c
+F:\StudySpace\workspace\class_vs\class_mjson\3rd\mjson\json.c(1338,24): warning C4477: “fprintf”: 格式字符串“%lX”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“int64_t”
+F:\StudySpace\workspace\class_vs\class_mjson\3rd\mjson\json.c(1338,24): message : 请考虑在格式字符串中使用“%llX”
+F:\StudySpace\workspace\class_vs\class_mjson\3rd\mjson\json.c(1338,24): message : 请考虑在格式字符串中使用“%I64X”
+  main.c
+  正在生成代码...
+  class_mjson.vcxproj -> F:\StudySpace\workspace\class_vs\Debug\class_mjson.exe

@@ -172,7 +172,8 @@
     <ClCompile Include="..\3rd\libuv\src\win\util.c" />
     <ClCompile Include="..\3rd\libuv\src\win\winapi.c" />
     <ClCompile Include="..\3rd\libuv\src\win\winsock.c" />
-    <ClCompile Include="..\src\main_udp.c" />
+    <ClCompile Include="..\src\main_timer.c" />
+    <ClCompile Include="..\src\time_list.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\3rd\libuv\include\android-ifaddrs.h" />
@@ -200,6 +201,7 @@
     <ClInclude Include="..\3rd\libuv\src\win\stream-inl.h" />
     <ClInclude Include="..\3rd\libuv\src\win\winapi.h" />
     <ClInclude Include="..\3rd\libuv\src\win\winsock.h" />
+    <ClInclude Include="..\src\time_list.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
